@@ -1,6 +1,10 @@
 # blobs_test
 
-A new Flutter project.
+blobsのテストプロジェクト
+https://pub.dev/packages/blobs
+
+公式サイト
+https://passionhacks.com/blob-maker/?n=1&e=20&gw=4&se=880&g=e96443|904e95&o=0
 
 ## Getting Started
 
